@@ -1,7 +1,7 @@
 #include<iostream>
 #include<vector>
 using namespace std;
-
+//快速选择第k大的数据
 class Solution {
 public:
     int findKthLargest(vector<int>& nums, int k) {
