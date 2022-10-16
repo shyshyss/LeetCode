@@ -1,3 +1,4 @@
+//利用哈希映射来简历新旧的联系，实现带有随机指针的链表的复制
 #include<iostream>
 #include<unordered_map>
 using namespace std;
